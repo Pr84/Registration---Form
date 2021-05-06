@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+}
+body {
+    font-size: 15pt;
+    background-color: whitesmoke;
+   
+}
+h3{
+  background-color: cyan;
+  border: 2px solid black ;
+  border-radius: 20px
+  
+  
+}
+
+
+
+#animate{
+  background-color: red;
+  height: 100px;
+  width: 600px;
+ 
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  
+}
